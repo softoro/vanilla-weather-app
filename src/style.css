@@ -69,3 +69,17 @@ small {
 .link {
   text-decoration: none;
 }
+
+.fahrenheit {
+  text-decoration: none;
+}
+
+.weather-temperature .active {
+  color: rgb(33, 33, 33);
+  cursor: default;
+  text-decoration: none;
+}
+
+.weather-temperature .active:hover {
+  text-decoration: none;
+}
